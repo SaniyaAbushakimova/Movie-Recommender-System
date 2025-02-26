@@ -23,9 +23,9 @@ https://github.com/user-attachments/assets/f8afa8af-f9bc-43cc-a69f-87c63ba60f40
 * `similarity_matrix.csv` - Precomputed similarity scores between movies, used for IBCF.
 * `top_10_movies.csv` - A list of the top 10 most recommended movies for each user based on Popularity-Based Recommendation.
 * `ml-1m/` - Folder containing the MovieLens 1M dataset, which includes user ratings, movie metadata, and user demographic information.
- * `movies.dat` - Includes movie title, release year, and genres.
- * `ratings.dat` - 1,000,209 anonymous ratings from 6,040 users on 3,706 movies.
- * `users.dat` -  Gender, age, occupation, and zip code.
+  * `movies.dat` - Includes movie title, release year, and genres.
+  * `ratings.dat` - 1,000,209 anonymous ratings from 6,040 users on 3,706 movies.
+  * `users.dat` -  Gender, age, occupation, and zip code.
 * `MovieImages/` - Folder containing movie posters used in the recommendations web app.
 * `Movie-Recommender-App/` - Folder containing the Dash web application that allows users to explore movie recommendations interactively.
   * `app.py` - The main Dash application that serves the web interface for recommendations.
