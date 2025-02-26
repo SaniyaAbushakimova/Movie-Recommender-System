@@ -1,5 +1,7 @@
 # Movie-Recommender-System
 
+Project completed on December 9, 2024.
+
 ## Project Overview
 
 This project is a Movie Recommender System that leverages **collaborative filtering techniques** to generate personalized movie recommendations. It is built using the **MovieLens dataset**, which includes approximately **1 million ratings** from **6,040 users** for **3,706 movies**, providing a rich foundation for analyzing user preferences and movie similarities.
