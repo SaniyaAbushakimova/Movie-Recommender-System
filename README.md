@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/f8afa8af-f9bc-43cc-a69f-87c63ba60f40
 * `Movie-Recommender-System.ipynb` - Jupyter Notebook containing the implementation of the recommender system, including data preprocessing, model development, and evaluation.
 * `Rmat.csv` - User-movie rating matrix generated from the MovieLens dataset used as the input for IBCF.
 * `top_10_movies.csv` - A list of the top 10 most recommended movies for each user based on Popularity-Based Recommendation.
-* `similarity_matrix.csv` - Precomputed similarity scores between movies, used for IBCF. [Download here](https://drive.google.com/file/d/1IcHpO8S4hl0ZGBO5xuIanBbESlrwQoVI/view?usp=sharing)
+* `similarity_matrix.csv` - Precomputed similarity scores between movies, used for IBCF. [Download here](https://drive.google.com/file/d/142abx3DEtxWVGX4cVKAKlrKbF1JRJLP0/view?usp=sharing)
 
 ## Methods and Techniques Used
 
