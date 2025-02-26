@@ -5,8 +5,8 @@
 This project is a Movie Recommender System that leverages **collaborative filtering techniques** to generate personalized movie recommendations. It is built using the **MovieLens dataset**, which includes approximately **1 million ratings** from **6,040 users** for **3,706 movies**, providing a rich foundation for analyzing user preferences and movie similarities.
 
 The recommender system is implemented from scratch, focusing on two key recommendation strategies:
-1. **Popularity-Based Recommendation** – Recommends movies based on overall popularity.
-2. **Item-Based Collaborative Filtering (IBCF)** – Uses similarity between movies to generate personalized recommendations for users.
+1. **System 1: Popularity-Based Recommendation** – Recommends movies based on overall popularity.
+2. **System 2: Item-Based Collaborative Filtering (IBCF)** – Uses similarity between movies to generate personalized recommendations for users.
 
 Additionally, a **Movie Recommender Web App** was built to provide an interactive interface for users to explore and receive movie recommendations.
 
